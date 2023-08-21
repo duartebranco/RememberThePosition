@@ -1,0 +1,84 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #F0D9B5;
+  margin: 0;
+}
+#top-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#title {
+  position: relative;
+  font-size: 70px;
+  font-weight: bold;
+  color: #B58863;
+  text-align: center;
+  top: -340px;
+}
+#myBoard {
+  position: absolute;
+  width: 500px;
+  max-width: 100%;
+  top: 276px;
+}
+#board2 {
+  position: absolute;
+  width: 500px;
+  max-width: 100%;
+  top: 210px;
+}
+#startButtonContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#startButton {
+  top: 860px;
+  position: absolute;
+  background-color: #F0D9B5;
+  color: #B58863;
+  padding: 10px 20px;
+  border: 2px solid #B58863;
+}
+#guessButton {
+  position: absolute;
+  background-color: #F0D9B5;
+  color: #B58863;
+  padding: 10px 20px;
+  border: 2px solid #B58863;
+  top: 860px;
+}
+#timer {
+  position: absolute;
+  color: #B58863;
+  font-weight: bold;
+  top: 860px;
+}
+#result {
+  position: absolute;
+  color: #B58863;
+  font-weight: bold;
+  top: 810px;
+}
+#tryButton {
+  top: 860px;
+  position: absolute;
+  background-color: #F0D9B5;
+  color: #B58863;
+  padding: 10px 20px;
+  border: 2px solid #B58863;
+}
+#textbox {
+  position: absolute;
+  display: none;
+  margin-top: 20px;
+  color: #B58863;
+  text-align: left;
+  top: 905px;
+}
