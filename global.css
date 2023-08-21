@@ -82,3 +82,13 @@ body {
   text-align: left;
   top: 905px;
 }
+@media (max-width: 320px) {
+  #title {
+    position: absolute;
+    font-size: 70px;
+    font-weight: bold;
+    color: #B58863;
+    text-align: center;
+    top: 0px;
+  }
+}
