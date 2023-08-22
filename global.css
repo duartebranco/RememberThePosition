@@ -82,7 +82,7 @@ body {
   text-align: left;
   top: 905px;
 }
-@media only screen and (max-width : 480px) {
+@media screen and (max-width : 480px) {
   #title {
     position: absolute;
     font-size: 70px;
