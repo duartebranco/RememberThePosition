@@ -82,7 +82,7 @@ body {
   text-align: left;
   top: 905px;
 }
-@media only screen and (min-device-width: 480px) {
+@media only screen and (max-width : 480px) {
   #title {
     position: absolute;
     font-size: 70px;
@@ -90,5 +90,15 @@ body {
     color: #B58863;
     text-align: center;
     top: 0px;
+  }
+}
+@media screen and (display-mode: fullscreen) {
+  #title {
+    position: absolute;
+    font-size: 70px;
+    font-weight: bold;
+    color: #B58863;
+    text-align: center;
+    top: 20px;
   }
 }
