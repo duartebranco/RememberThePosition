@@ -12,7 +12,7 @@ body {
 }
 #title {
   position: relative;
-  font-size: 70px;
+  font-size: min(6vh, 70px);
   font-weight: bold;
   color: #B58863;
   text-align: center;
@@ -21,13 +21,13 @@ body {
 #myBoard {
   position: absolute;
   width: 500px;
-  max-width: 100%;
+  max-width: 80%;
   top: 276px;
 }
 #board2 {
   position: absolute;
   width: 500px;
-  max-width: 100%;
+  max-width: 80%;
   top: 210px;
 }
 #startButtonContainer {
@@ -75,9 +75,63 @@ body {
 }
 #textbox {
   position: absolute;
-  display: none;
+  display: block;
   margin-top: 20px;
   color: #B58863;
   text-align: left;
   top: 905px;
+}
+
+@media (max-width:768px) {
+  #myBoard {
+    position: static;
+    width: 500px;
+    max-width: 80%;
+    margin-top: 15%;
+  }
+  #board2 {
+    position: static;
+    width: 500px;
+    max-width: 80%;
+    margin-top: 15%;
+  }
+  #startButton {
+    background-color: #F0D9B5;
+    color: #B58863;
+    padding: 10px 20px;
+    border: 2px solid #B58863;
+    position: static;
+    margin-top: 15%;
+  }
+  #guessButton {
+    position: static;
+    background-color: #F0D9B5;
+    color: #B58863;
+    padding: 10px 20px;
+    border: 2px solid #B58863;
+    margin-top: 15%;
+  }
+  #timer {
+    position: static;
+    color: #B58863;
+    font-weight: bold;
+    margin-top: 15%;
+  }
+  #result {
+    position: static;
+    color: #B58863;
+    font-weight: bold;
+    margin-top: 15%;
+  }
+  #tryButton {
+    position: static;
+    background-color: #F0D9B5;
+    color: #B58863;
+    padding: 10px 20px;
+    border: 2px solid #B58863;
+    margin-top: 15%;
+  }
+  #textbox {
+    display: none;
+  }
 }
