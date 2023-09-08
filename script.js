@@ -206,5 +206,4 @@ function startGame() {
 document.getElementById('board2').style.display = 'none';
 document.getElementById('guessButton').style.display = 'none';
 document.getElementById('tryButton').style.display = 'none';
-document.getElementById('textbox').style.display = 'block';
 document.getElementById('startButton').addEventListener('click', startGame);
