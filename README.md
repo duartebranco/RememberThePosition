@@ -18,6 +18,6 @@ This was made with the javascript library [chessboardjs](https://github.com/oakm
 - ~~Mobile compatibility~~
 - Highlight the correct and incorrect moves after guessing
 
-## Played by
+## Played in
 
 :us:  :portugal:  :canada:  :de:  :gb:  :czech_republic:  :finland:  :poland:  :es:  :switzerland:  :india:
