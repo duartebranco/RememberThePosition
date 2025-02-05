@@ -20,7 +20,7 @@ This was made with the javascript library [chessboardjs](https://github.com/oakm
 
 ## Played in
 
-:us:  :portugal:  :canada:  :de:  :gb:  :czech_republic:  :finland:  :poland:  :es:  :switzerland:  :india:  :argentina: :mexico: :colombia: :fr:  :peru: :ru:  :australia:  :ecuador:  :ghana:  :it:  :netherlands:  :norway:  :tunisia:  :united_arab_emirates:
+:us:  :portugal:  :canada:  :de:  :gb:  :czech_republic:  :finland:  :poland:  :es:  :switzerland:  :india:  :argentina: :mexico: :colombia: :fr:  :peru: :ru:  :australia:  :ecuador:  :ghana:  :it:  :netherlands:  :norway:  :tunisia:  :united_arab_emirates: :chile: :bolivia: :venezuela: :cuba: :denmark: :hong_kong: :new_zealand: :pakistan: :paraguay: :philippines: :tr: :ukraine: :uruguay:
 
 ## Featured in
 
