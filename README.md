@@ -15,9 +15,9 @@ This was made with the javascript library [chessboardjs](https://github.com/oakm
 ## TODO
 
 - [x] Mobile compatibility
-    - [] Android App
-- [] Highlight the correct and incorrect moves after guessing
-- [] Diferent Modes
+    - [ ] Android App
+- [ ] Highlight the correct and incorrect moves after guessing
+- [ ] Diferent Modes
 
 ## Played in
 
