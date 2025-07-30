@@ -2,39 +2,39 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     <title>Remember the Position</title>
-    <link rel="icon" href="icon.png">
-    <link rel="stylesheet" href="css/chessboard-1.0.0.min.css">
-    <link rel="stylesheet" href="./global.css">
-    
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-    <script src="js/chessboard-1.0.0.min.js"></script>
-    
+    <link rel="icon" href="src/img/icon.png">
+    <link rel="stylesheet" href="src/css/chessboard-1.0.0.css">
+    <link rel="stylesheet" href="src/css/global.css">
+
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="src/js/chessboard-1.0.0.min.js"></script>
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-M45LG1GETG"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-    
+
       gtag('config', 'G-M45LG1GETG');
     </script>
   </head>
   <body>
     <div id="top-container">
-      <div id="title">Remember the Position <br>&#9812</div> 
+      <div id="title">Remember the Position <br>&#9812</div>
       <div id="myBoard"></div>
       <div id="board2"></div>
-      
-      <div id="startButtonContainer"> 
+
+      <div id="startButtonContainer">
         <button id="startButton"><b>Play</b></button>
         <button id="guessButton"><b>Guess</b></button>
         <div id="timer" style="display: none;"></div>
         <div id="result" style="display: none;"></div>
         <button id="tryButton"><b>Try Again</b></button>
       </div>
-      
+
       <div id="textbox">
         <p>This is a challenge of remembering the exact position of the chess pieces in midlegames/endgames after having 10 seconds to memorize them.</p>
         <p>I was inspired to do this after coming across some studies that reached the conclusion that masters can recall more pieces than a begginer, <b>if, and only if,</b> it's a typical, possible and legal position.</p>
@@ -46,6 +46,6 @@
         <p>Made by <a href="https://github.com/duartebranco" target="_blank">me</a></p>
       </div>
     </div>
-    <script src="./script.js"></script>
+    <script src="src/js/script.js"></script>
   </body>
 </html>

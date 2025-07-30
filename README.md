@@ -14,9 +14,10 @@ This was made with the javascript library [chessboardjs](https://github.com/oakm
 
 ## TODO
 
-- Arrows
-- ~~Mobile compatibility~~
-- Highlight the correct and incorrect moves after guessing
+- [x] Mobile compatibility
+    - [] Android App
+- [] Highlight the correct and incorrect moves after guessing
+- [] Diferent Modes
 
 ## Played in
 

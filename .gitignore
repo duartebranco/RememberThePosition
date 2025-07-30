@@ -1,0 +1,12 @@
+# Android
+android/
+
+# Capacitot
+www/
+capacitor.config.json
+
+# Node
+node_modules/
+
+# run android app on emulator
+run.sh
