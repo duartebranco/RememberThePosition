@@ -12,6 +12,10 @@ The studies in question:
 
 This was made with the javascript library [chessboardjs](https://github.com/oakmac/chessboardjs/)
 
+## Screenshots
+| ![Screenshot 1](src/img/screenshots/screenshot1.png) | ![Screenshot 2](src/img/screenshots/screenshot2.png) |
+|----------------------------------|----------------------------------|
+
 ## TODO
 
 - [x] Mobile compatibility
