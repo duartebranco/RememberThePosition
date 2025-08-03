@@ -1,137 +1,72 @@
 body {
-  background-color: #F0D9B5;
-  position: relative;
-  width: 100%;
-  height: 100%;
-  margin: 0;
-}
-#top-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-#title {
-  position: relative;
-  font-size: min(6vh, 70px);
-  font-weight: bold;
-  color: #B58863;
-  text-align: center;
-  top: 20px;
-}
-#myBoard {
-  position: absolute;
-  width: 500px;
-  max-width: 80%;
-  top: 276px;
-}
-#board2 {
-  position: absolute;
-  width: 500px;
-  max-width: 80%;
-  top: 210px;
-}
-#startButtonContainer {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-#startButton {
-  top: 860px;
-  position: absolute;
-  background-color: #F0D9B5;
-  color: #B58863;
-  padding: 10px 20px;
-  border: 2px solid #B58863;
-}
-#guessButton {
-  position: absolute;
-  background-color: #F0D9B5;
-  color: #B58863;
-  padding: 10px 20px;
-  border: 2px solid #B58863;
-  top: 860px;
-}
-#timer {
-  position: absolute;
-  color: #B58863;
-  font-weight: bold;
-  top: 860px;
-}
-#result {
-  position: absolute;
-  color: #B58863;
-  font-weight: bold;
-  top: 810px;
-}
-#tryButton {
-  top: 860px;
-  position: absolute;
-  background-color: #F0D9B5;
-  color: #B58863;
-  padding: 10px 20px;
-  border: 2px solid #B58863;
-}
-#textbox {
-  position: absolute;
-  display: block;
-  margin-top: 20px;
-  color: #B58863;
-  text-align: left;
-  top: 905px;
+    background-color: #f0d9b5;
+    max-width: 70%;
+    margin: 40px auto;
+    line-height: 1.6;
+    font-size: 18px;
+    padding: 0 10px;
 }
 
-@media (max-width:768px) {
-  #myBoard {
-    position: static;
-    width: 500px;
-    max-width: 80%;
-    margin-top: 15%;
-  }
-  #board2 {
-    position: static;
-    width: 500px;
-    max-width: 80%;
-    margin-top: 15%;
-  }
-  #startButton {
-    background-color: #F0D9B5;
-    color: #B58863;
-    padding: 10px 20px;
-    border: 2px solid #B58863;
-    position: static;
-    margin-top: 15%;
-  }
-  #guessButton {
-    position: static;
-    background-color: #F0D9B5;
-    color: #B58863;
-    padding: 10px 20px;
-    border: 2px solid #B58863;
-    margin-top: 15%;
-  }
-  #timer {
-    position: static;
-    color: #B58863;
+#title {
+    font-size: 5vh;
     font-weight: bold;
-    margin-top: 15%;
-  }
-  #result {
-    position: static;
-    color: #B58863;
+    color: #b58863;
+    text-align: center;
+}
+#title.blurred {
+    filter: blur(5px);
+}
+
+#board {
+    max-width: 30%;
+    margin: 0 auto;
+    transition: filter 0.3s ease;
+}
+#board.blurred {
+    filter: blur(5px);
+}
+
+#buttons-section {
+    text-align: center;
+    transition: filter 0.3s ease;
+}
+#buttons-section.blurred {
+    filter: blur(5px);
+}
+
+.buttons {
+    background-color: #f0d9b5;
+    color: #b58863;
+    padding: 15px 30px;
+    border: 3px solid #b58863;
+    font-size: 1.2rem;
     font-weight: bold;
-    margin-top: 15%;
-  }
-  #tryButton {
-    position: static;
-    background-color: #F0D9B5;
-    color: #B58863;
-    padding: 10px 20px;
-    border: 2px solid #B58863;
-    margin-top: 15%;
-  }
-  #textbox {
-    display: none;
-  }
+    cursor: pointer;
+    margin-top: 20px;
+    transition: all 0.3s ease;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.buttons:hover {
+    background-color: #b58863;
+    color: #f0d9b5;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+.buttons:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#textbox {
+    text-align: center;
+    color: #b58863;
+    transition: filter 0.3s ease;
+}
+#textbox.blurred {
+    filter: blur(5px);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
 }

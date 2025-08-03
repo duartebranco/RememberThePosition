@@ -1,0 +1,136 @@
+/* Preferences Screen style */
+#preferencesScreen {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(240, 217, 181, 0.95);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 3px solid #b58863;
+    border-radius: 12px;
+    padding: 40px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    max-width: 90vw;
+    max-height: 90vh;
+}
+
+#preferencesScreen h2 {
+    color: #b58863;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#preferencesScreen h3 {
+    color: #b58863;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.setting-group {
+    margin-bottom: 25px;
+    text-align: left;
+}
+
+.setting-group label {
+    display: block;
+    color: #b58863;
+    margin: 8px 0;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+.setting-group input[type="radio"] {
+    margin-right: 8px;
+    transform: scale(1.2);
+}
+
+.setting-group select {
+    background-color: #f0d9b5;
+    border: 2px solid #b58863;
+    border-radius: 6px;
+    color: #8b4513;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 10px 15px;
+    width: 280px;
+    cursor: pointer;
+    outline: none;
+}
+
+.setting-group select:hover {
+    background-color: #e6ce9a;
+    border-color: #8b4513;
+}
+
+.setting-group select:focus {
+    border-color: #8b4513;
+    box-shadow: 0 0 0 2px rgba(181, 136, 99, 0.3);
+}
+
+.setting-group select option {
+    background-color: #f0d9b5;
+    color: #8b4513;
+    font-weight: bold;
+}
+
+#backButton {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    border: 2px solid #b58863;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-size: 1rem;
+    margin-top: 0px;
+}
+
+#backButton:hover {
+    background-color: #b58863;
+    color: #f0d9b5;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+#backButton:active {
+    transform: translateY(0);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.game-button {
+    background-color: #f0d9b5;
+    color: #b58863;
+    padding: 15px 30px;
+    border: 3px solid #b58863;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: all 0.3s ease;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.game-button:hover {
+    background-color: #b58863;
+    color: #f0d9b5;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.game-button:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#currentRating {
+    font-weight: bold;
+    color: #8b4513;
+}
