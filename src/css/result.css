@@ -1,0 +1,45 @@
+#result {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin: 20px auto;
+    max-width: 300px;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    line-height: 1.5;
+    white-space: normal;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#result:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+#result:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.result-perfect {
+    background-color: #dcfce7;
+    color: #166534;
+    border: 2px solid #22c55e;
+}
+.result-good {
+    background-color: #fef3c7;
+    color: #92400e;
+    border: 2px solid #f59e0b;
+}
+.result-okay {
+    background-color: #fed7aa;
+    color: #9a3412;
+    border: 2px solid #ea580c;
+}
+.result-poor {
+    background-color: #fecaca;
+    color: #991b1b;
+    border: 2px solid #ef4444;
+}

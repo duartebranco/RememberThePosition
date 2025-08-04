@@ -74,14 +74,15 @@ function startGame() {
             clearInterval(countdown);
             timerText.textContent = "Time's up!";
             timerElement.className = "critical";
+            selectedFEN = board.fen();
 
-            // gessfunc
-            guess();
+            // make position
+            mkPos(selectedFEN);
         }
     }, 1000);
 }
 
-function guess() {
+function mkPos(selectedFEN) {
     // Hide timer and show guessBtn
     document.getElementById("timer").style.display = "none";
     document.getElementById("guessBtn").style.display = "";
@@ -91,6 +92,149 @@ function guess() {
         dropOffBoard: "trash",
         sparePieces: true,
     });
+    document.getElementById("board").style.margin = "0 auto";
+
+    document.getElementById("guessBtn").addEventListener("click", function () {
+        guess(selectedFEN, board);
+    });
+}
+
+function guess(selectedFEN, board) {
+    var userFEN = board.fen();
+    board = Chessboard("board").position(userFEN);
+
+    // Convert FENs to position objects for comparison
+    var correctPosition = Chessboard.fenToObj(selectedFEN);
+    var userPosition = Chessboard.fenToObj(userFEN);
+
+    // Remove any existing highlights
+    $(".square-55d63").removeClass(
+        "correct-piece incorrect-piece missing-piece extra-piece",
+    );
+
+    // Get all squares on the board
+    var squares = [
+        "a8",
+        "b8",
+        "c8",
+        "d8",
+        "e8",
+        "f8",
+        "g8",
+        "h8",
+        "a7",
+        "b7",
+        "c7",
+        "d7",
+        "e7",
+        "f7",
+        "g7",
+        "h7",
+        "a6",
+        "b6",
+        "c6",
+        "d6",
+        "e6",
+        "f6",
+        "g6",
+        "h6",
+        "a5",
+        "b5",
+        "c5",
+        "d5",
+        "e5",
+        "f5",
+        "g5",
+        "h5",
+        "a4",
+        "b4",
+        "c4",
+        "d4",
+        "e4",
+        "f4",
+        "g4",
+        "h4",
+        "a3",
+        "b3",
+        "c3",
+        "d3",
+        "e3",
+        "f3",
+        "g3",
+        "h3",
+        "a2",
+        "b2",
+        "c2",
+        "d2",
+        "e2",
+        "f2",
+        "g2",
+        "h2",
+        "a1",
+        "b1",
+        "c1",
+        "d1",
+        "e1",
+        "f1",
+        "g1",
+        "h1",
+    ];
+
+    var correctCount = 0;
+    var totalPieces = Object.keys(correctPosition).length;
+
+    // Compare each square
+    squares.forEach(function (square) {
+        var correctPiece = correctPosition[square];
+        var userPiece = userPosition[square];
+        var squareElement = $('[data-square="' + square + '"]');
+
+        if (correctPiece && userPiece) {
+            // Both positions have pieces on this square
+            if (correctPiece === userPiece) {
+                // Correct piece
+                squareElement.addClass("correct-piece");
+                correctCount++;
+            } else {
+                // Wrong piece
+                squareElement.addClass("incorrect-piece");
+            }
+        } else if (correctPiece && !userPiece) {
+            // Missing piece (should be there but isn't)
+            squareElement.addClass("missing-piece");
+        } else if (!correctPiece && userPiece) {
+            // Extra piece (shouldn't be there but is)
+            squareElement.addClass("extra-piece");
+        }
+        // If neither has a piece, no highlighting needed
+    });
+
+    // Hide guess button and show results
+    document.getElementById("guessBtn").style.display = "none";
+    document.getElementById("result").style.display = "";
+
+    var accuracy = Math.round((correctCount / totalPieces) * 100);
+
+    if (userFEN === selectedFEN) {
+        document.getElementById("result").innerHTML =
+            "Perfect! All pieces correct!";
+        document.getElementById("result").className = "result-perfect";
+    } else {
+        if (accuracy >= 80) {
+            document.getElementById("result").className = "result-good";
+        } else if (accuracy >= 60) {
+            document.getElementById("result").className = "result-okay";
+        } else {
+            document.getElementById("result").className = "result-poor";
+        }
+        1;
+        document.getElementById("result").innerHTML =
+            correctCount + "/" + totalPieces + " ♟ Pieces Correct";
+    }
+
+    // Show back and next btns
+    document.getElementById("stopBtn").style.display = "";
+    document.getElementById("nextBtn").style.display = "";
 }
 
 function closePreferences() {

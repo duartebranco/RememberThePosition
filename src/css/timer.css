@@ -1,0 +1,39 @@
+#timer {
+    background-color: #b58863;
+    color: #f0d9b5;
+    padding: 15px 30px;
+    border: 3px solid #8b4513;
+    border-radius: 8px;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+#timer.warning {
+    background-color: #d2691e;
+    border-color: #8b4513;
+    animation: pulse 1s infinite;
+}
+#timer.critical {
+    background-color: #cd5c5c;
+    border-color: #8b0000;
+    animation: pulse 0.5s infinite;
+}
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+#timer-text {
+    font-family: "Courier New", monospace;
+    letter-spacing: 1px;
+}
