@@ -81,7 +81,7 @@
     font-weight: bold;
 }
 
-#backButton {
+#backBtn {
     position: absolute;
     top: 15px;
     left: 15px;
@@ -92,42 +92,16 @@
     margin-top: 0px;
 }
 
-#backButton:hover {
+#backBtn:hover {
     background-color: #b58863;
     color: #f0d9b5;
     transform: translateY(-1px);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-#backButton:active {
+#backBtn:active {
     transform: translateY(0);
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-}
-
-.game-button {
-    background-color: #f0d9b5;
-    color: #b58863;
-    padding: 15px 30px;
-    border: 3px solid #b58863;
-    font-size: 1.2rem;
-    font-weight: bold;
-    cursor: pointer;
-    margin-top: 20px;
-    transition: all 0.3s ease;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.game-button:hover {
-    background-color: #b58863;
-    color: #f0d9b5;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-}
-
-.game-button:active {
-    transform: translateY(0);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 #currentRating {

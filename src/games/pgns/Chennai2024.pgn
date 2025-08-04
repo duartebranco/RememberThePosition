@@ -1,0 +1,532 @@
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.05"]
+[Round "1.4"]
+[White "Aronian,L"]
+[Black "Sarana,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2679"]
+[ECO "C79"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Re1 b5 7.Bb3 Be7 8.a4 Bg4
+9.c3 O-O 10.h3 Bh5 11.d3 Na5 12.Ba2 b4 13.Nbd2 Rb8 14.g4 Bg6 15.Nh4 Nd7 16.Nxg6 hxg6
+17.Nc4 Nxc4 18.Bxc4 bxc3 19.bxc3 a5 20.Bb5 Nc5 21.d4 Ne6 22.d5 Nc5 23.Ba3 Bg5
+24.Kg2 Bf4 25.Rb1 Nd7 26.Rb3 f5 27.c4 Nf6 28.exf5 gxf5 29.gxf5 Qc8 30.Qb1 Kh8
+31.c5 e4 32.Bb2 Qxf5 33.Bxf6 Rxf6  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.05"]
+[Round "1.2"]
+[White "Vachier Lagrave,M"]
+[Black "Maghsoodloo,Parham"]
+[Result "1-0"]
+[WhiteElo "2737"]
+[BlackElo "2712"]
+[ECO "B41"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Be2 Nf6 6.Nc3 Qc7 7.f4 Bb4 8.e5 Bxc3+
+9.bxc3 Qxc3+ 10.Qd2 Qxd2+ 11.Bxd2 Ne4 12.Bb4 b6 13.Bf3 Bb7 14.Rb1 f5 15.exf6 gxf6
+16.O-O f5 17.Rfd1 h5 18.Be1 b5 19.c4 Nc6 20.cxb5 Nxd4 21.Rxd4 axb5 22.a4 h4
+23.h3 d5 24.Rxb5 Bc6 25.Rb6 Kd7 26.a5 Nd6 27.Be2 Rab8 28.Rxb8 Rxb8 29.Rb4 Ra8
+30.Rb2 Nc4 31.Ra2 Rh8 32.a6 Kc7 33.a7 Nd6 34.Bc3 Ra8 35.Be5 Kd7 36.Ra6 Nc4
+37.Bb8 Ne3 38.Kf2 d4 39.g3 hxg3+ 40.Kxg3 Nd5 41.Bf3 d3 42.Bxd5 Bxd5 43.Kf2 d2
+44.Rd6+ Ke7 45.Rxd5 exd5 46.Ke2 Kf6 47.Kxd2 Kg6 48.Kd3 Kh5 49.Kd4 Kh4 50.Kxd5 Kxh3  1-0
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.05"]
+[Round "1.3"]
+[White "Vidit,S"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2739"]
+[BlackElo "2799"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 Bc5 7.Nb3 Bb4 8.Bd3 O-O
+9.O-O Bxc3 10.bxc3 d6 11.Ba3 Re8 12.Re1 Qc7 13.Nd4 a6 14.Nxc6 Qxc6 15.Bc2 Qxc4
+16.Qxd6 e5 17.Bb3 Qxc3 18.Rac1 Qa5 19.Bb4 Qd8 20.Qxd8 Rxd8 21.Rc7 Rd7 22.Rec1 Rxc7
+23.Rxc7 Be6 24.Bxe6 fxe6 25.f3 b5 26.a3 a5 27.Bc3 b4 28.axb4 axb4 29.Bxb4 Ra1+
+30.Kf2 Ra2+ 31.Kf1 Ra1+ 32.Kf2 Ra2+ 33.Kf1 Ra1+ 34.Be1 Nh5 35.g3 Nf6 36.Re7 Ra3
+37.Ke2 Ra6 38.Bc3 Kf8 39.Rb7 Ra2+ 40.Bb2 Nd7 41.Ke3 Ke8 42.h4 Ra5 43.Rc7 g6
+44.g4 h5 45.g5 Ra8 46.Rc6 Kf7 47.Kd3 Rb8 48.Kc2 Ra8 49.Rc7 Ke8 50.Rc6 Kf7
+51.Kc3 Rb8 52.Ba3 Rb1 53.Rc7 Ke8 54.Rc8+ Kf7 55.Rd8 Nb6 56.Rf8+ Kg7 57.Rf6 Na4+
+58.Kc4 Nb6+ 59.Kc3 Na4+ 60.Kc2 Rb6 61.Bf8+ Kh7 62.Bh6 Rb2+ 63.Kd3 Rb7 64.Bf8 Nb2+
+65.Ke2 Rb6 66.Bh6 Rc6 67.Rf7+ Kh8 68.Rf8+ Kh7 69.Rf7+ Kh8 70.Rg7 Rc2+ 71.Ke3 Rc3+
+72.Kd2 Rxf3 73.Rxg6 Nc4+ 74.Kd1 Rf4 75.Rxe6 Ne3+ 76.Kd2 Ng4 77.Kd3 Kg8 78.Re8+ Kh7
+79.Re7+ Kg8 80.Re8+ Kh7 81.Bf8 Nf2+ 82.Kc4 Rxe4+ 83.Kd5 Rxh4 84.Be7 Rg4 85.Ke6 Ne4
+86.Kf5 Ng3+ 87.Kxe5 Kg6 88.Ke6 Re4+ 89.Kd7 Nf5 90.Bd8 Rxe8 91.Kxe8 h4 92.Kd7 h3
+93.Bc7 Kxg5 94.Ke6 Kg4 95.Bh2 Ng3 96.Kf6 Kf3  0-1
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.05"]
+[Round "1.1"]
+[White "Aravindh,Chithambaram VR."]
+[Black "Tabatabaei,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2706"]
+[BlackElo "2686"]
+[ECO "D35"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.e3 h6 7.Bh4 Bg4 8.Be2 Bxe2
+9.Ngxe2 Nbd7 10.Qc2 c6 11.f3 O-O 12.Bf2 Re8 13.O-O Bd6 14.Kh1 Rc8 15.Rad1 b5
+16.Nc1 b4 17.Na4 c5 18.dxc5 Nxc5 19.Nxc5 Bxc5 20.Qd2 Qb6 21.Rfe1 b3 22.Re2 bxa2
+23.Nxa2 a5 24.h3 Re6 25.Nc3 Bb4 26.Nxd5 Nxd5 27.Qxd5 Rd6 28.Qb3 Qa6 29.Rxd6 Qxd6
+30.Bg1 a4 31.Qxa4 Qd3 32.Qxb4 Qxe2 33.Kh2 Rc2 34.Qg4 h5 35.Qg5 Rxb2 36.e4 Rd2
+37.h4 Rd6 38.Qc5 Rd2 39.Qc8+ Kh7 40.Qf5+ Kg8 41.Qc8+ Kh7 42.Qf5+  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.06"]
+[Round "2.4"]
+[White "Aravindh,Chithambaram VR."]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2706"]
+[BlackElo "2737"]
+[ECO "D27"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.a4 Nc6 8.Qe2 cxd4
+9.Rd1 Be7 10.exd4 O-O 11.Nc3 Nb4 12.Bg5 h6 13.Bxf6 Bxf6 14.Ne5 Bd7 15.d5 exd5
+16.Nxd5 Nxd5 17.Rxd5 Bxe5 18.Qxe5 Qe8 19.Qd4 Bxa4 20.Re5 Qd7 21.Rd5 Qe8 22.Re5 Qd7
+23.Rd5 Qe8  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.06"]
+[Round "2.2"]
+[White "Erigaisi,Arjun"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2799"]
+[BlackElo "2739"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qc2 c5 6.Bg2 Nc6 7.dxc5 Bxc5 8.a3 Bb7
+9.O-O O-O 10.b4 Be7 11.Bb2 Rc8 12.Nbd2 h6 13.Rfd1 Qc7 14.Rac1 Rfd8 15.Ne4 Nxe4
+16.Qxe4 Bf8 17.Qe3 Ne7 18.h4 Qb8 19.Bh3 Ba8 20.Kh2 Qb7 21.Rd4 Re8 22.Rf4 b5
+23.Ne5 Nf5 24.Qd3 d6 25.Nf3 Ne7 26.c5 dxc5 27.Rxf7 Qd5 28.Qxd5 Bxd5 29.Ne5 cxb4
+30.e4 Rxc1 31.exd5 Nxd5 32.Bxc1 Bd6 33.Rxa7 Bxe5 34.axb4 Nxb4 35.Rb7 Bd4
+36.Rxb5  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.06"]
+[Round "2.3"]
+[White "Maghsoodloo,Parham"]
+[Black "Vidit,S"]
+[Result "1-0"]
+[WhiteElo "2712"]
+[BlackElo "2739"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.O-O Nd7 7.c3 h6 8.Re1 O-O
+9.Nbd2 Re8 10.Nf1 a5 11.Ng3 a4 12.h3 Nf8 13.Qc2 Qf6 14.Qe2 Ng6 15.Nh5 Qd6
+16.Bd2 Bb6 17.d4 exd4 18.cxd4 f5 19.Ng3 Bd7 20.Qc4+ Be6 21.Qc2 fxe4 22.Rxe4 Bd7
+23.Rae1 Rxe4 24.Rxe4 a3 25.b3 Qf6 26.Qc4+ Qf7 27.h4 Qxc4 28.bxc4 Ra4 29.h5 Nf8
+30.Re7 Rxc4 31.Ne4 Bxd4 32.Nxd4 Rxd4 33.Bc3 Rd1+ 34.Kh2 Ne6 35.Nd2 Nc5 36.Rxg7+ Kf8
+37.Rg3 Ne6 38.Rg6 c5 39.Rxh6 Nd4 40.Ne4 b6 41.Rf6+ Kg8 42.Rg6+ Kh8 43.Nf6 Be6
+44.h6 Bf7 45.Rg7  1-0
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.06"]
+[Round "2.1"]
+[White "Tabatabaei,M"]
+[Black "Sarana,A"]
+[Result "1-0"]
+[WhiteElo "2686"]
+[BlackElo "2679"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a4 a5 8.Re1 Be6
+9.Nd5 Bxd5 10.exd5 Nb4 11.d4 e4 12.Nd2 c6 13.c3 Nbxd5 14.Nxe4 Nxe4 15.Rxe4 Nf6
+16.Re1 d5 17.Bd3 g6 18.g3 Re8 19.Qf3 Bf8 20.Bg5 Rxe1+ 21.Rxe1 Bg7 22.Qf4 Rc8
+23.Bf1 h6 24.Bxh6 Bxh6 25.Qxh6 Qb6 26.Bh3 Rf8 27.Re6 Nh7 28.Re2 Qb3 29.Qf4 Qxa4
+30.Kg2 c5 31.Bg4 cxd4 32.h4 Qc6 33.Qxd4 Rd8 34.Bf3 b5 35.Re5 Nf6 36.h5 Rd7
+37.hxg6 fxg6 38.g4 Kf7 39.g5 Ne4 40.Bg4 Re7 41.Qxd5+ Qxd5 42.Rxd5 Rc7 43.Rxb5 a4
+44.Bf3 Nc5 45.Bd1  1-0
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.07"]
+[Round "3.4"]
+[White "Sarana,A"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2679"]
+[BlackElo "2799"]
+[ECO "E43"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 O-O 7.O-O c5 8.Na4 cxd4
+9.a3 Be7 10.exd4 Qc7 11.Re1 d5 12.c5 bxc5 13.Nxc5 Bxc5 14.dxc5 Qxc5 15.Bf4 Qb6
+16.Ne5 Ba6 17.Bc2 Rc8 18.b4 Nc6 19.Rc1 Nxe5 20.Bxe5 Rc4 21.Bxf6 gxf6 22.Qh5 Kf8
+23.Bb3 Rc6 24.Qxh7 Rac8 25.Rcd1 d4 26.h4 d3 27.h5 Qd4 28.Re4 Qb2 29.Ba4 Rc1
+30.Qh6+ Ke7 31.Qe3 Rxd1+ 32.Bxd1 Qc1 33.Qxa7+ Rc7 34.Qxa6 Qxd1+ 35.Kh2 Qxh5+
+36.Kg3 d2 37.Rd4 Qe5+  0-1
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.07"]
+[Round "3.3"]
+[White "Aronian,L"]
+[Black "Maghsoodloo,Parham"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2712"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.Ba4 Nf6 5.O-O e6 6.d3 Be7 7.c4 O-O 8.Nc3 h6
+9.a3 Ne5 10.b4 Bd7 11.Bc2 Nfg4 12.Ne1 Nf6 13.Rb1 b6 14.b5 Bc8 15.f4 Ned7
+16.Rf3 Ne8 17.Rh3 Ndf6 18.Nf3 Bb7 19.Qe1 Rc8 20.Qg3 Kh8 21.Bd2 Ng8 22.Re1 Nef6
+23.Nd1 Nh7 24.Ne3 Rc7 25.Ng4 Nhf6 26.Ne3 Nh7 27.Qf2 d5 28.e5 d4 29.Ng4 Re8
+30.Bd1 a6 31.a4 axb5 32.axb5 Ba8 33.Rh5 Ra7 34.Ng5 Bf8 35.Bf3 Bxf3 36.Qxf3 g6
+37.Rh3 Qa8 38.Qf2 h5 39.Nxh7 Kxh7 40.f5 Bg7 41.f6 Bf8 42.Rxh5+ gxh5 43.Qh4 Ra1
+44.Qxh5+ Nh6 45.Nxh6 Rxe1+ 46.Bxe1  1-0
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.07"]
+[Round "3.1"]
+[White "Vachier Lagrave,M"]
+[Black "Tabatabaei,M"]
+[Result "0-1"]
+[WhiteElo "2737"]
+[BlackElo "2686"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Na5 8.Ba2 c5
+9.Bd2 Nc6 10.Na3 a6 11.c3 h6 12.h3 Bd7 13.Nc2 Be6 14.Ne3 Qd7 15.Nh2 d5 16.Nhg4 Nxg4
+17.hxg4 dxe4 18.dxe4 Rad8 19.Bxe6 fxe6 20.Nf1 Na5 21.Be3 Qc6 22.Qc2 c4 23.Nd2 g5
+24.Rad1 Bf6 25.Nf3 Nb3 26.Rxd8 Rxd8 27.Rd1 Qxa4 28.Rxd8+ Bxd8 29.Qd1 Bc7
+30.Nd2 Qd7 31.Qe2 Nxd2 32.Qxd2 Qc6 33.Qd1 a5 34.Kf1 Qxe4 35.Qd7 Qd3+ 36.Qxd3 cxd3
+37.f3 e4 38.fxe4 Bg3  0-1
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.07"]
+[Round "3.2"]
+[White "Vidit,S"]
+[Black "Aravindh,Chithambaram VR."]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2706"]
+[ECO "D25"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 b5 5.a4 c6 6.axb5 cxb5 7.Nc3 Qb6 8.b3 e6
+9.bxc4 Bb4 10.Bd2 bxc4 11.Bxc4 a5 12.O-O O-O 13.Na4 Qd6 14.Bxb4 axb4 15.Nc5 Rxa1
+16.Qxa1 Nfd7 17.Ne4 Qb6 18.Rb1 Bb7 19.Ned2 Nc6 20.Ne1 e5 21.d5 Na5 22.e4 f5
+23.Nd3 Nxc4 24.Nxc4 Qa6 25.Qxa6 Bxa6 26.Ndxe5 Re8 27.Nxd7 Bxc4 28.d6 b3 29.e5 f4
+30.h4 Kf7 31.f3 h6 32.h5 Bb5 33.Nb6 Rxe5 34.Rxb3 Ke6 35.d7 Bxd7 36.Nxd7 Kxd7
+37.Rb7+ Ke6 38.Rxg7 Rxh5 39.Rg6+ Kf5 40.Rb6 Kg5 41.Rb4 Kf5 42.Ra4 Kg5 43.Rc4 Kf5
+44.Rc8 Kg6 45.Rg8+ Kf7 46.Ra8 Rf5 47.Ra4 Kg6 48.Kf2 Kg5  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.08"]
+[Round "4.3"]
+[White "Aravindh,Chithambaram VR."]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2706"]
+[BlackElo "2739"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 e6 3.Nd2 d5 4.e3 Nbd7 5.Ngf3 h6 6.Bh4 g5 7.Bg3 Nh5 8.Bd3 Nxg3
+9.hxg3 Bg7 10.g4 c5 11.c3 Qb6 12.b4 cxd4 13.exd4 Nf6 14.Ne5 Nd7 15.Nef3 Nf6
+16.Ne5 Nd7 17.Nef3 Nf6  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.08"]
+[Round "4.4"]
+[White "Vachier Lagrave,M"]
+[Black "Vidit,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2739"]
+[ECO "A14"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.d4 c6 7.Qc2 b6 8.Rd1 Nbd7
+9.b3 Bb7 10.Nc3 Ba6 11.Nd2 c5 12.e3 cxd4 13.exd4 Rc8 14.Bb2 Nb8 15.Nf1 dxc4
+16.Ne3 Bb4 17.d5 Qe7 18.dxe6 fxe6 19.bxc4 Bxc4 20.Ne4 Bd5 21.Nxf6+ gxf6 22.Qe2 Bxg2
+23.Kxg2 Nc6 24.Ng4 e5 25.f4 Qe6 26.fxe5 Nxe5 27.Rd4 Bc3 28.Bxc3 Rxc3 29.Nxe5 fxe5
+30.Qg4+ Qg6 31.Qxg6+ hxg6 32.Rd2 e4 33.a4 e3 34.Re2 Rf5 35.Rae1 Ra5 36.Rxe3 Rxe3
+37.Rxe3 Rxa4 38.Re7 b5 39.Rb7 b4 40.h4 a5 41.Kf3 Kf8 42.g4 Ra1 43.Rb5 Ke7
+44.h5 gxh5 45.gxh5 Kf6 46.Kg4 Rg1+ 47.Kf4 Rf1+ 48.Kg4 Rg1+ 49.Kf4 Rf1+ 50.Kg4 Rg1+  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.08"]
+[Round "4.1"]
+[White "Tabatabaei,M"]
+[Black "Erigaisi,Arjun"]
+[Result "0-1"]
+[WhiteElo "2686"]
+[BlackElo "2799"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a6 7.a4 h6 8.Re1 Ba7 9.b4 g5
+10.Be3 Bxe3 11.Rxe3 g4 12.Ne1 h5 13.d4 h4 14.Be2 Qe7 15.d5 Nb8 16.Nd2 Qf8
+17.Nf1 Qh6 18.c4 g3 19.fxg3 hxg3 20.h3 Nbd7 21.c5 Nf8 22.cxd6 cxd6 23.Qc1 Bxh3
+24.gxh3 Ng6 25.Rxg3 Nf4 26.Qe3 Nxh3+ 27.Rxh3 Qxh3 28.Qxh3 Rxh3 29.Bf3 Rc8
+30.Rb1 Rc3 31.Nd2 Ke7 32.a5 Nd7 33.Kf2 Nf8 34.b5 Ng6 35.bxa6 bxa6 36.Bg2 Rh6
+37.Rb7+ Kf8 38.Rb6 Nf4 39.Rxa6 Ra3 40.Ra8+ Kg7 41.a6 Ra2 42.Nf3 f5 43.Ra7+ Kf8
+44.Ra8+ Kg7 45.Ra7+ Kf6 46.Bf1 fxe4 47.Bc4 Rc2 48.Rd7 Rh3 49.Ke3 exf3 50.Ne4+ Kf5
+51.Nxd6+ Kg6 52.Bf1 Re2+  0-1
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.08"]
+[Round "4.2"]
+[White "Maghsoodloo,Parham"]
+[Black "Sarana,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2712"]
+[BlackElo "2679"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Be7 6.d3 d6 7.a3 O-O 8.h3 Be6
+9.Ng5 Nd7 10.Nxe6 fxe6 11.Ne2 Bg5 12.Bb3 Nc5 13.Ba2 Bxc1 14.Qxc1 Nd4 15.Nxd4 exd4
+16.O-O d5 17.Qe1 Qd6 18.f4 Rad8 19.exd5 exd5 20.Qb4 Ne6 21.f5 c5 22.Qd2 Nc7
+23.b4 Nb5 24.Rae1 Nc3 25.Bb3 cxb4 26.Re6 Qd7 27.Qg5 Qf7 28.axb4 Rde8 29.Rxe8 Qxe8
+30.Kh1 Qe5 31.Qh4 Kh8 32.Re1 Ne2 33.Qf2 Re8 34.Ra1 Ng3+ 35.Kg1 Nxf5 36.Ba4 b5
+37.Bb3 h5 38.Qf3 Qe3+ 39.Kh2 Qxf3 40.gxf3 Re2+ 41.Kg1 Ne3 42.Rxa6 Rg2+ 43.Kh1 Rg3
+44.Kh2 Rxf3 45.Rb6 g5 46.Rh6+ Kg7 47.Rxh5 Rf5 48.Kg3 Nf1+ 49.Kg2 Ne3+ 50.Kg3 Re5
+51.Kf3 Nd1 52.Kg4 Ne3+ 53.Kf3 Nd1 54.Kg4 Kg6 55.Rh8 Nc3 56.Rg8+ Kh6 57.Rh8+ Kg6
+58.Rg8+ Kf6 59.Rf8+ Kg6 60.Rb8 Kf6 61.Rb6+ Kg7 62.Kh5 Kf7 63.Rd6 Re3 64.Kxg5 Rxh3
+65.Bxd5+ Ke7 66.Re6+ Kd7 67.Bb3 Re3 68.Ra6 Kc7 69.Kf6 Ne2 70.Kf5 Ng3+ 71.Kg5 Ne2
+72.Kf6 Nc3 73.Kf5 Ne2 74.Re6 Rf3+ 75.Kg5 Rg3+ 76.Kf6 Rf3+ 77.Kg7 Rg3+ 78.Kf7 Rf3+
+79.Rf6 Re3 80.Rf5 Nc3 81.Rf4 Ne2 82.Rh4 Nc1 83.Be6 Re2 84.Rxd4 Rxc2 85.Rd7+ Kb6
+86.Ke7 Rc3 87.Rd6+ Ka7 88.Rd7+ Kb6 89.Rd6+ Ka7 90.Bf5 Rb3 91.Rd7+ Kb6 92.Rd6+ Ka7
+93.d4 Na2 94.Rd7+ Kb6 95.Rd6+ Ka7 96.Rd8 Nxb4 97.d5 Rb2 98.Be6 Rd2 99.Kd6 Kb6
+100.Rb8+ Ka5 101.Ke5 Re2+ 102.Kd6 Rd2 103.Rb7 Ka6 104.Rh7 Kb6 105.Rh8 Ka5
+106.Rh5 Kb6 107.Kd7 Nd3 108.Ke7 Nc5 109.Rh8 b4 110.Rb8+ Ka5 111.Bf7 b3 112.Kd6 Ne4+
+113.Ke5 Nc5 114.Kd6 Ne4+ 115.Ke5 Nc5 116.Kd6 Ne4+ 117.Kc6 Rf2 118.d6 Rxf7
+119.d7  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.09"]
+[Round "5.3"]
+[White "Sarana,A"]
+[Black "Aravindh,Chithambaram VR."]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2706"]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 h6 4.Nf3 Nf6 5.Bf4 Bd6 6.Bxd6 Qxd6 7.Rc1 a6 8.e3 O-O
+9.c5 Qe7 10.Be2 Nc6 11.O-O Rd8 12.a3 e5 13.dxe5 Nxe5 14.Nxe5 Qxe5 15.Qd4 Qxd4
+16.exd4 Bf5 17.f3 Re8 18.Kf2 c6 19.b4 Nd7 20.Nd1 Re7 21.Rc3 Nf8 22.Ne3 Bh7
+23.Rd1 Ne6 24.Bf1 f5 25.g3 f4 26.Ng2 fxg3+ 27.hxg3 Rae8 28.Re3 Ng5 29.Rxe7 Nh3+
+30.Ke2 Ng1+ 31.Kf2 Nh3+ 32.Ke2 Ng1+ 33.Kf2  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.09"]
+[Round "5.1"]
+[White "Vidit,S"]
+[Black "Tabatabaei,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2686"]
+[ECO "A14"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 d4 7.e3 c5 8.Ne5 Qc7 9.f4 Nbd7
+10.Nd3 e5 11.Bb2 Bd6 12.Na3 a6 13.Nc2 Re8 14.fxe5 Nxe5 15.Nxe5 Bxe5 16.exd4 Bg4
+17.Bf3 Bxf3 18.Qxf3 cxd4 19.d3 b5 20.Rae1 Rab8 21.Bxd4 Bxd4+ 22.Nxd4 Qa7
+23.Qf2 Ng4 24.Qf4 Red8 25.c5 Qxc5 26.Qxf7+ Kh8 27.Rf4 Ne5 28.Qf5 Rd5 29.Kf1 Rxd4
+30.Rxe5 Rxf4+ 31.Qxf4 Qc2 32.Re2 Qd1+ 33.Kf2 Rg8 34.Qf3 h6 35.Kg2 Qa1 36.h4 Qd4
+37.Re6 a5 38.Qe4 Qa1 39.Qe2 a4 40.bxa4 bxa4 41.Re8 a3 42.Rxg8+ Kxg8 43.Qe8+ Kh7
+44.Qe4+ Kh8 45.Qa8+ Kh7 46.Qxa3 Qe5 47.Kf3 Qf5+ 48.Ke3 Qe5+ 49.Kd2 Qxg3 50.Qa4 Qf2+
+51.Kd1 Qf1+ 52.Kc2 Qe2+ 53.Kc3 Qe1+ 54.Kb2 Qd2+ 55.Kb1 Qe1+ 56.Kc2 Qe2+ 57.Kc3 Qe1+  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.09"]
+[Round "5.2"]
+[White "Aronian,L"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2737"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.f3 c5 4.d5 d6 5.Nc3 e6 6.e4 Bg7 7.Nge2 a6 8.a4 Qe7 9.dxe6 fxe6
+10.Bf4 e5 11.Bg5 Nc6 12.Nd5 Qd8 13.Nec3 Nd4 14.Bd3 O-O 15.O-O Be6 16.Ne2 Nxe2+
+17.Bxe2 Rf7 18.Qd2 Qf8 19.Nb6 Rd8 20.Rad1 h6 21.Be3 Rc7 22.b4 cxb4 23.Qxb4 Rc6
+24.a5 h5 25.Nd5 Rd7 26.Bd3 Rf7 27.Bc2 Kh7 28.Bf2 Rc8 29.Nb6 Rd8 30.c5 dxc5
+31.Bxc5 Qg8 32.Rxd8 Qxd8 33.Rd1 Qg8 34.Be7 Bh6 35.Nd5 Bxd5 36.exd5 Qc8 37.Bb3 e4
+38.d6 Be3+ 39.Kf1 Qf5 40.Qc4 Rg7 41.Qe6 Qb5+ 42.Bc4 Qb2 43.Be2 Ng8 44.Bf8  1-0
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.09"]
+[Round "5.4"]
+[White "Erigaisi,Arjun"]
+[Black "Maghsoodloo,Parham"]
+[Result "1/2-1/2"]
+[WhiteElo "2799"]
+[BlackElo "2712"]
+[ECO "D61"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Qc2 h6 8.Bh4 dxc4
+9.Bxc4 a6 10.O-O b5 11.Be2 Bb7 12.Rfd1 Rc8 13.Ne5 Nxe5 14.dxe5 Nd7 15.Bg3 Qe8
+16.a4 b4 17.Ne4 b3 18.Qb1 Nc5 19.Nxc5 Bxc5 20.Qd3 Qc6 21.Bf3 Qb6 22.a5 Qb4
+23.Bxb7 Qxb7 24.Qc4 Bb4 25.Qxb3 Rfd8 26.Rd4 Rxd4 27.exd4 Rd8 28.Qc4 Rd5 29.Bf4 Rxa5
+30.Rc1 c5 31.Be3 cxd4 32.Bxd4 Rd5 33.h3 a5 34.Qc8+ Qxc8 35.Rxc8+ Kh7 36.Rc4 h5
+37.Kf1 Kg6 38.Ke2 Kf5 39.Ke3 Rd7 40.g3 Rb7 41.Kf3 Bd2 42.Ke2 Bb4 43.Kf3 Bd2
+44.Ke2 Bb4  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.10"]
+[Round "6.3"]
+[White "Vachier Lagrave,M"]
+[Black "Sarana,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2679"]
+[ECO "C97"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.d5 Nc4 13.a4 Nb6 14.a5 Nc4 15.b4 Bd7 16.Nbd2 cxb4
+17.cxb4 Rac8 18.Bd3 Nxd2 19.Bxd2 g6 20.Bh6 Rfe8 21.Rc1 Qb7 22.Qd2 Rxc1 23.Rxc1 Rc8
+24.Qe3 Rxc1+ 25.Qxc1 Qc8 26.Qxc8+ Bxc8 27.Nd2 Ne8 28.Be3 f5 29.f3 Nc7 30.Nb1 f4
+31.Bb6  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.10"]
+[Round "6.4"]
+[White "Vidit,S"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2739"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.h3 d6 7.a3 Be6 8.Nbd2 Bxc4
+9.Nxc4 Re8 10.Re1 h6 11.b3 Bf8 12.Bb2 g6 13.Qd2 Bg7 14.Rad1 Qd7 15.Ne3 Nd8
+16.c4 c6 17.c5 dxc5 18.Nxe5 Qe7 19.N5g4 Ne6 20.Bxf6 Bxf6 21.Nxh6+ Kh7 22.Nhg4 Bg7
+23.Nf5 gxf5 24.exf5 Qd6 25.fxe6 Rxe6 26.Rxe6 Qxe6 27.b4 cxb4 28.Qxb4 b5 29.d4 Rd8
+30.Ne3 a5 31.Qc5 Bh6 32.Qc2+ Qg6 33.Nf5 Bf8 34.Qe4 Rd5 35.Qh4+ Kg8 36.Ne7+ Bxe7
+37.Qxe7 Rg5 38.g3 b4 39.axb4 axb4 40.Rc1 b3 41.Qe2 Rb5 42.Qb2 Qe4 43.h4 Rb4
+44.Rd1 Qd5 45.Qc3 Qb5 46.Qb2 Rc4 47.d5 cxd5 48.h5 d4 49.Re1 Rc3 50.Qd2 Qd5
+51.Qf4 Kh7 52.Re5 Qf3 53.Qxf3 Rxf3 54.Kf1 Rc3 55.Rb5 f5 56.Ke2 Rc2+ 57.Kd3 Rxf2
+58.Rxb3 Rf3+ 59.Kc4 Rxb3 60.Kxb3 Kh6 61.Kc4 Kxh5 62.Kxd4 Kg4 63.Ke5 Kxg3
+64.Kxf5  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.10"]
+[Round "6.1"]
+[White "Tabatabaei,M"]
+[Black "Maghsoodloo,Parham"]
+[Result "1/2-1/2"]
+[WhiteElo "2686"]
+[BlackElo "2712"]
+[ECO "E09"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O Nbd7 7.Qc2 c6 8.Nbd2 b6
+9.e4 dxc4 10.Nxc4 Bb7 11.Bf4 c5 12.Rfe1 cxd4 13.Nd6 Bxd6 14.Bxd6 d3 15.Qxd3 Bxe4
+16.Qd4 e5 17.Qa4 Re8 18.Rad1 Bxf3 19.Bxf3 e4 20.Bxe4 Rxe4 21.Rxe4 Nxe4 22.Qxe4 Nf6
+23.Qf3 Rc8 24.Be5 Qe7 25.Bxf6 Qxf6 26.Qxf6 gxf6 27.Rd7 Rc2 28.Rxa7 Rxb2 29.Kg2 b5
+30.h4 b4 31.a4 bxa3 32.Rxa3 Kg7 33.Rf3 h6 34.Kg1 Rb1+ 35.Kg2 Rb2 36.Kg1 Rb1+
+37.Kg2 Rb2  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.10"]
+[Round "6.2"]
+[White "Aravindh,Chithambaram VR."]
+[Black "Erigaisi,Arjun"]
+[Result "1-0"]
+[WhiteElo "2706"]
+[BlackElo "2799"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 d5 3.e3 g6 4.Nd2 Bg7 5.Ngf3 O-O 6.Be2 c5 7.c3 b6 8.O-O Bb7
+9.b4 Nbd7 10.bxc5 bxc5 11.Qb3 Qc8 12.a4 h6 13.Rab1 Bc6 14.Bf4 g5 15.Be5 c4
+16.Qa3 Re8 17.h3 Bf8 18.Qa2 g4 19.hxg4 Nxg4 20.Bg3 Bg7 21.Rfe1 Nf8 22.Nh2 Nxh2
+23.Bxh2 e5 24.dxe5 Bxe5 25.Bxe5 Rxe5 26.Nf3 Re6 27.Rbd1 Bb7 28.Nd4 Rg6 29.Bh5 Rg5
+30.Qe2 Qd7 31.f4 Rg7 32.Qc2 Ne6 33.Nf5 Rh7 34.e4 Nxf4 35.exd5 f6 36.Bg4 Qd8
+37.Rd4 Nd3 38.Rf1 Ne5 39.Bh3 Kh8 40.d6 Qg8 41.Rdf4 Qg5 42.Ne7 Rg7 43.Rxf6 Rag8
+44.Nxg8 Rxg8 45.Rf8 Nd3 46.Rxg8+ Kxg8 47.d7 Qe3+ 48.Qf2  1-0
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.11"]
+[Round "7.2"]
+[White "Sarana,A"]
+[Black "Vidit,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2739"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 d5 5.Qa4+ Nc6 6.e3 O-O 7.Bd2 dxc4 8.Bxc4 Bd6
+9.Qc2 e5 10.dxe5 Nxe5 11.Nxe5 Bxe5 12.f4 Bxc3 13.Bxc3 Ng4 14.Qe2 Re8 15.e4 Bf5
+16.e5 Qh4+ 17.g3 Qh6 18.O-O-O Nxe5 19.Bxe5 Qc6 20.Rhe1 Be6 21.b3 b5 22.Qe4 Qxe4
+23.Rxe4 bxc4 24.bxc4 h6 25.Bc3 Red8 26.Rxd8+ Rxd8 27.Rd4 Rb8 28.Ba5 c5 29.Rd8+ Rxd8
+30.Bxd8 Bxc4 31.Be7 Bxa2 32.Bxc5 a5 33.Kd2 h5 34.Ke3 Kh7 35.f5 f6 36.Kf4 Bc4
+37.Ba3 a4 38.Bb4 Bd3 39.Ba3 Kg8 40.Bb4 Kf7 41.Ba3 Ke8 42.Bb4 Kd7 43.Bf8 Bc2
+44.Ba3 Ke8 45.Bb4 Bb1 46.Ba3 Bc2 47.Bb4 Bb1 48.Ba3  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.11"]
+[Round "7.3"]
+[White "Erigaisi,Arjun"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2799"]
+[BlackElo "2737"]
+[ECO "D81"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Qb3 dxc4 5.Qxc4 Be6 6.Qb5+ Bd7 7.Qb3 c5 8.d5 b5
+9.e4 b4 10.e5 bxc3 11.exf6 Qb6 12.Ne2 Qxf6 13.Nxc3 Bg7 14.Be2 O-O 15.O-O Bc8
+16.Be3 Nd7 17.Qa3 Bb7 18.Rfd1 Rfd8 19.Rac1 Qh4 20.Bb5 Be5 21.h3 Bd6 22.Bc6 Bxc6
+23.dxc6 Ne5 24.Bxc5 Nc4 25.Qa6 Bxc5 26.Rxd8+ Rxd8 27.c7 Rf8 28.Ne4 Qxe4 29.c8=Q Bxf2+
+30.Kh1 Ne3 31.Qcc6 Qd4 32.Qaa4 Qxb2 33.Qb3 Qd2 34.Qbc3 Qxa2 35.Qf3 Nf5 36.Qc2 Ng3+
+37.Kh2 Nf1+ 38.Kh1  1/2-1/2
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.11"]
+[Round "7.4"]
+[White "Maghsoodloo,Parham"]
+[Black "Aravindh,Chithambaram VR."]
+[Result "0-1"]
+[WhiteElo "2712"]
+[BlackElo "2706"]
+[ECO "D31"]
+
+1.c4 e6 2.Nc3 d5 3.d4 h6 4.cxd5 exd5 5.Bf4 c6 6.e3 Bf5 7.Nge2 Bh7 8.h4 Be7
+9.Ng3 Nd7 10.Bd3 Bxh4 11.Bxh7 Bxg3 12.Bxg3 Rxh7 13.Qc2 Ngf6 14.O-O-O Kf8
+15.f3 Kg8 16.Kb1 h5 17.Bh4 Qe8 18.Bg5 Qe6 19.Ne2 Re8 20.Rhe1 Nf8 21.Nf4 Qd6
+22.Rh1 N6d7 23.Nxh5 Qg6 24.Qxg6 fxg6 25.Ng3 Rxh1 26.Rxh1 Nh7 27.Bf4 g5 28.Bd6 Rxe3
+29.Nf5 Re6 30.Ne7+ Kf7 31.Nf5 Nhf8 32.Bb4 b6 33.g4 a5 34.Bd2 g6 35.Ng3 Rf6
+36.Rf1 Ne6 37.Ne2 Ke7 38.Kc2 Kd6 39.Kd3 c5 40.dxc5+ bxc5 41.Bxa5 Ne5+ 42.Kc2 Nxg4
+43.Bd2 Nh2 44.Rf2 Nxf3 45.Kd1 d4 46.a4 g4 47.a5 g5 48.b4 Rh6 49.Ng3 Rh3 50.Rg2 Nxd2
+51.Kxd2 Nf4 52.bxc5+ Kxc5 53.Rg1 Rh2+ 54.Kd1 Ra2 55.Re1 Rxa5 56.Re5+ Kb4
+57.Rxa5 Kxa5 58.Nf5 d3 59.Kd2 Kb4 60.Ng3 Kc4 61.Nf5 Nd5 62.Ng3 Kd4 63.Nf5+ Ke5
+64.Ng3  0-1
+
+[Event "Chennai GM 2024"]
+[Site "Chennai IND"]
+[Date "2024.11.11"]
+[Round "7.1"]
+[White "Aronian,L"]
+[Black "Tabatabaei,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2686"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Be2 Ngf6 7.O-O e5 8.Qe3 Nc5
+9.Nc3 Be7 10.Rd1 Bd7 11.a4 Ng4 12.Qd2 Nf6 13.Qe3 Ng4 14.Qd2 Nf6 15.Qe3  1/2-1/2

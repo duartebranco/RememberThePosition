@@ -33,7 +33,7 @@
 
         <!-- Preferences Screen -->
         <div id="preferencesScreen" style="display: none">
-            <button class="buttons" id="backButton"><- Back</button>
+            <button class="buttons" id="backBtn"><- Back</button>
             <h2>Set Game's Preferences</h2>
 
             <div class="setting-group">
@@ -56,7 +56,7 @@
                 </h3>
             </div>
 
-            <button id="applySettings" class="game-button">
+            <button id="startBtn" class="buttons">
                 Start Playing
             </button>
         </div>
@@ -67,6 +67,10 @@
         <!--- Buttons Container --->
         <div id="buttons-section">
             <button class="buttons" id="playBtn"><b>Play</b></button>
+            <button class="buttons" id="guessBtn" style="display: none;"><b>Guess</b></button>
+            <div id="timer" style="display: none;">
+                <span id="timer-text"></span>
+            </div>
         </div>
 
         <!--- Footer --->

@@ -1,14 +1,5 @@
 document.getElementById("playBtn").addEventListener("click", gamePreferences);
-
 var board = Chessboard("board");
-// var board2 = Chessboard("board2", {
-//     draggable: true,
-//     dropOffBoard: "trash",
-//     sparePieces: true,
-// });
-var firstBoardFEN = "";
-var userFEN = "";
-var rememberedFEN = "";
 
 function gamePreferences() {
     // Show Preferences Screen
@@ -20,17 +11,86 @@ function gamePreferences() {
     document.getElementById("buttons-section").classList.add("blurred");
     document.getElementById("textbox").classList.add("blurred");
 
-    document
-        .getElementById("applySettings")
-        .addEventListener("click", function () {
-            closePreferences();
-            startGame();
-        });
+    // start button functionality
+    document.getElementById("startBtn").addEventListener("click", function () {
+        closePreferences();
+        startGame();
+    });
 
     // Back button functionality
     document
-        .getElementById("backButton")
+        .getElementById("backBtn")
         .addEventListener("click", closePreferences);
+}
+
+function startGame() {
+    // user preferences
+    var difficulty = document.getElementById("difficultySelect").value;
+    var timeLimit = parseInt(document.getElementById("timeLimitSelect").value);
+
+    var positionsArray;
+    switch (difficulty) {
+        case "easy":
+            positionsArray = easy;
+            break;
+        case "normal":
+            positionsArray = normal;
+            break;
+        case "hard":
+            positionsArray = hard;
+            break;
+    }
+
+    // Select random position
+    var randomIndex = Math.floor(Math.random() * positionsArray.length);
+    var selectedFEN = positionsArray[randomIndex];
+
+    // Update board
+    board.position(selectedFEN);
+
+    // Hide the Play button and show timer
+    document.getElementById("playBtn").style.display = "none";
+    document.getElementById("timer").style.display = "block";
+
+    var timerElement = document.getElementById("timer");
+    var timerText = document.getElementById("timer-text");
+
+    // Start countdown
+    var seconds = 1;
+    timerText.textContent = "Time: " + seconds + " seconds";
+
+    var countdown = setInterval(function () {
+        seconds--;
+        timerText.textContent = "Time: " + seconds + " seconds";
+
+        // Add visual warnings as time runs low
+        if (seconds <= 5) {
+            timerElement.className = "critical";
+        } else if (seconds <= 10) {
+            timerElement.className = "warning";
+        }
+
+        if (seconds <= 0) {
+            clearInterval(countdown);
+            timerText.textContent = "Time's up!";
+            timerElement.className = "critical";
+
+            // gessfunc
+            guess();
+        }
+    }, 1000);
+}
+
+function guess() {
+    // Hide timer and show guessBtn
+    document.getElementById("timer").style.display = "none";
+    document.getElementById("guessBtn").style.display = "";
+
+    board = Chessboard("board", {
+        draggable: true,
+        dropOffBoard: "trash",
+        sparePieces: true,
+    });
 }
 
 function closePreferences() {
@@ -43,56 +103,3 @@ function closePreferences() {
     document.getElementById("buttons-section").classList.remove("blurred");
     document.getElementById("textbox").classList.remove("blurred");
 }
-
-// function clearBoard() {
-//     board2.clear();
-//     document.getElementById("tryButton").style.display = "none";
-//     document.getElementById("guessButton").style.display = "block";
-//     document.getElementById("result").style.display = "none";
-//     document.getElementById("timer").style.display = "none";
-//     document.getElementById("startButton").style.display = "none";
-//     document.getElementById("myBoard").style.display = "none";
-//     document.getElementById("board2").style.display = "block";
-//     document.getElementById("guessButton").addEventListener("click", guessFEN);
-// }
-//
-// function guessFEN() {
-//     var userFEN = board2.fen();
-//     document.getElementById("guessButton").style.display = "none";
-//     document.getElementById("result").style.display = "block";
-//     var resultElement = document.getElementById("result");
-//     if (firstBoardFEN === userFEN) {
-//         resultElement.textContent = "Correct!";
-//     } else {
-//         resultElement.textContent = "Incorrect!";
-//     }
-//     document.getElementById("board2").style.display = "none";
-//     document.getElementById("myBoard").style.display = "block";
-//     document.getElementById("tryButton").style.display = "block";
-//     document.getElementById("tryButton").addEventListener("click", startGame);
-// }
-//
-// function startGame() {
-//     var randomFenIndex = Math.floor(Math.random() * fenPositions.length);
-//     rememberedFEN = fenPositions[randomFenIndex];
-//     board.position(rememberedFEN);
-//
-//     document.getElementById("startButton").style.display = "none";
-//     document.getElementById("timer").style.display = "block";
-//     document.getElementById("tryButton").style.display = "none";
-//     document.getElementById("result").style.display = "none";
-//
-//     var seconds = 10;
-//     var timerElement = document.getElementById("timer");
-//     var countdown = setInterval(function () {
-//         timerElement.textContent = "Timer: " + seconds + " seconds";
-//         seconds--;
-//
-//         if (seconds < 0) {
-//             firstBoardFEN = board.fen();
-//             clearInterval(countdown);
-//             board2.start();
-//             clearBoard();
-//         }
-//     }, 1000);
-// }
